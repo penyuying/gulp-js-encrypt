@@ -1,17 +1,24 @@
 {
-  "name": "gulp-jsEncrypt",
+  "name": "gulp-js-encrypt",
   "version": "1.0.0",
-  "description": "js混淆",
+  "description": "js文件加密工具",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/penyuying/gulp-jsEncrypt.git"
+    "url": "git+https://github.com/penyuying/gulp-js-encrypt.git"
   },
   "keywords": [
-    "js混淆"
+    "js文件加密工具",
+    "js混淆",
+    "js",
+    "evl",
+    "md5",
+    "packer",
+    "unpacker",
+    "base2"
   ],
   "dependencies": {
 	"gulp-util": "^3.0.7",
@@ -26,7 +33,7 @@
   "author": "penyuying",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/penyuying/gulp-jsEncrypt/issues"
+    "url": "https://github.com/penyuying/gulp-js-encrypt/issues"
   },
-  "homepage": "https://github.com/penyuying/gulp-jsEncrypt#readme"
+  "homepage": "https://github.com/penyuying/gulp-js-encrypt#readme"
 }
